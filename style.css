@@ -1,0 +1,21 @@
+nav{
+    background-color: #134769;
+    color: #ffffff;
+    height: 40px;
+    text-align: center;
+}
+a{
+    color: #ffffff;
+    font-size: 30px; 
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: monospace;
+
+}
+a:hover{
+    color: red;
+    background: #000;
+    border-radius: 50%;
+    font-size: 35px;
+}
